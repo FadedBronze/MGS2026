@@ -11,4 +11,4 @@ Bomb: goes "up" and damages surrounding tiles
 
 # Link to run
 https://fadedbronze.itch.io/terraterralis
-password: Terra
+password: terra
