@@ -23,3 +23,5 @@ I implemented these spells and these will hook into different particle effects a
 # Link to run
 https://fadedbronze.itch.io/terraterralis
 password: terra
+
+<img width="1920" height="1036" alt="2026-10-24-165128_hyprshot" src="https://github.com/user-attachments/assets/cab0bd00-4fa9-4432-8340-64dc48510fff" />
